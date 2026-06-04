@@ -1,0 +1,6 @@
+{
+  "name": "topQ",
+  "description": "A local services voting app representing democratic modernism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
